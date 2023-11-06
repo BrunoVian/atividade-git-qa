@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Trabalho de QA Git
-=======
-Trabalho de Qualidade Git
->>>>>>> main
